@@ -2,7 +2,7 @@
 
 ![Hash-landing preview](https://github.com/Reverlight/Hash-landing/blob/master/readme-preview.png)
 # Hash-value
-It uses hash-values to decide what element should be displayed.
+It uses hash-value to decide what element should be displayed.
 
 # LocalStorage
 After the item is choosen, the hash value is saved to localStorage. 

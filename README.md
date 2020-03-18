@@ -1,4 +1,4 @@
-# Landing item-selection based on javascript. 
+# Hash item selection based on javascript. 
 
 ![Hash-landing preview](https://github.com/Reverlight/Hash-landing/blob/master/readme-preview.png)
 # Hash-value
